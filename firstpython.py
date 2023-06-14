@@ -1,2 +1,2 @@
-#display the output
-("print helo world")
+##display the output
+print ("helo world")
